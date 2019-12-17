@@ -21,10 +21,11 @@ ___粗斜体___
 *******
 
 ~~删除线~~
-<u>下划线</u>
+
+加上<u>下划线</u>在这里
 
 脚注[^RUNOOB]
-
+[^RUNOOB]: 这里是脚注的文字
 
 列表及嵌套
 * itme1
@@ -61,7 +62,7 @@ printf("%d\n", a);
 ![alt 属性文本](http://static.runoob.com/images/runoob-logo.png)
 或者<img src=http://static.runoob.com/images/runoob-logo.png width=50%>可指定高度和宽度
 
-表格与对齐：
+表格与对齐（表格前要有空格）：
 
 名字 | 性别 | 年龄
 :-  | -:  | -: 
