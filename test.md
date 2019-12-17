@@ -62,6 +62,7 @@ printf("%d\n", a);
 或者<img src=http://static.runoob.com/images/runoob-logo.png width=50%>可指定高度和宽度
 
 表格与对齐：
+
 名字 | 性别 | 年龄
 :-  | -:  | -: 
 将永敬  | 超级难  | 一i区内外 
