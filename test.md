@@ -24,8 +24,8 @@ ___粗斜体___
 
 加上<u>下划线</u>在这里
 
-脚注[^RUNOOB]
-[^RUNOOB]: 这里是脚注的文字
+脚注[^RUNOOB].
+[^RUNOOB]:这里是脚注的文字.
 
 列表及嵌套
 * itme1
@@ -53,6 +53,11 @@ ___粗斜体___
 int a = 10;
 printf("%d\n", a);
 ```
+
+缩进式代码（前有空行）
+
+    int a = 10;
+    printf("%d\n", a);
 
 超链接
 [连接名](http://just.com/a.html)
